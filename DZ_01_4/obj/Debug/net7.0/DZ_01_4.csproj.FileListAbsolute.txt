@@ -1,0 +1,15 @@
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.csproj.AssemblyReference.cache
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.AssemblyInfoInputs.cache
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.AssemblyInfo.cs
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.csproj.CoreCompileInputs.cache
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\bin\Debug\net7.0\DZ_01_4.exe
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\bin\Debug\net7.0\DZ_01_4.deps.json
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\bin\Debug\net7.0\DZ_01_4.runtimeconfig.json
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\bin\Debug\net7.0\DZ_01_4.dll
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\bin\Debug\net7.0\DZ_01_4.pdb
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.dll
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\refint\DZ_01_4.dll
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.pdb
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\DZ_01_4.genruntimeconfig.cache
+C:\Users\DEVIL\Desktop\Domashka C#\DZ_01_4\obj\Debug\net7.0\ref\DZ_01_4.dll
