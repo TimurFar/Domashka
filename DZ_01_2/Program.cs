@@ -13,6 +13,10 @@ else if (B > A && B > C)
 {
     Max = B;
     }
+else if (A==B && A > C) 
+{
+    Max = A;
+}
 else
 {
     Max = C;
