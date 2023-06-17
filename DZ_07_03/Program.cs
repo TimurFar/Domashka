@@ -34,8 +34,14 @@ void FillArray (int [,] matr)
 
 void MiddleArif (int [,] matr, int n, int m)
 {
-   int summ = 0;
+   double summ = 0;
+   double summ1 = 0;
+   double summ2 = 0;
+   double summ3 = 0;
    double resultt = 0;
+   double resultt1 = 0;
+   double resultt2 = 0;
+   double resultt3 = 0;
      for (int i = 0; i < matr.GetLength(0); i++)
     {
         for (int j = 0; j < matr.GetLength(1); j++)
@@ -44,21 +50,45 @@ void MiddleArif (int [,] matr, int n, int m)
             summ = summ+matr[i,j];
                       
         }
-       
-        
+       for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            if (i == 1)
+            summ1 = summ1+matr[i,j];
+                      
+        }
+         for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            if (i == 2)
+            summ2 = summ2+matr[i,j];
+                      
+        }
+         for (int j = 0; j < matr.GetLength(1); j++)
+        {
+            if (i == 3)
+            summ3 = summ3+matr[i,j];
+                      
+        }
     }
-     Console.WriteLine(summ);
+     Console.WriteLine($"Сумма элементов первой строки {summ}");
         resultt = summ / n;
-        Console.WriteLine($"Среднее арифметическое равно {resultt}");
+        Console.WriteLine($"Среднее арифметическое первой строки равно {resultt}");
+        Console.WriteLine();
+        Console.WriteLine($"Сумма элементов второй строки {summ1}");
+        resultt1 = summ1 / n;
+        Console.WriteLine($"Среднее арифметическое второй строки равно {resultt1}");
+        Console.WriteLine();
+        Console.WriteLine($"Сумма элементов третьей строки {summ2}");
+        resultt2 = summ2 / n;
+        Console.WriteLine($"Среднее арифметическое третьей строки равно {resultt2}");
+        Console.WriteLine();
+        Console.WriteLine($"Сумма элементов четвёртой строки {summ3}");
+        resultt3 = summ3 / n;
+        Console.WriteLine($"Среднее арифметическое четвёртой строки равно {resultt3}");
 }
 
-Console.WriteLine("Введите количество строк в массиве");
-int m = int.Parse(Console.ReadLine());
-Console.WriteLine("Введите количество столбцов в массиве");
-int n = int.Parse(Console.ReadLine());
-int [,] matrix = new int [m,n];
+int [,] matrix = new int [4,4];
 PrintArray(matrix);
 FillArray(matrix);
 Console.WriteLine();
 PrintArray(matrix);
-MiddleArif(matrix, m, n);
+MiddleArif(matrix, 4, 4);
