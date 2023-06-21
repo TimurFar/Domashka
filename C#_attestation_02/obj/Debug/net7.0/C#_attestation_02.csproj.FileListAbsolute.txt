@@ -1,0 +1,15 @@
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\bin\Debug\net7.0\C#_attestation_02.exe
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\bin\Debug\net7.0\C#_attestation_02.deps.json
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\bin\Debug\net7.0\C#_attestation_02.runtimeconfig.json
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\bin\Debug\net7.0\C#_attestation_02.dll
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\bin\Debug\net7.0\C#_attestation_02.pdb
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.csproj.AssemblyReference.cache
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.AssemblyInfoInputs.cache
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.AssemblyInfo.cs
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.csproj.CoreCompileInputs.cache
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.dll
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\refint\C#_attestation_02.dll
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.pdb
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\C#_attestation_02.genruntimeconfig.cache
+C:\Users\DEVIL\Desktop\Domashka C#\C#_attestation_02\obj\Debug\net7.0\ref\C#_attestation_02.dll
