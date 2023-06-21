@@ -4,9 +4,9 @@
 // m = 3, n = 2 -> A(m,n) = 29
 
 Console.Write("Введите значение m: ");
-int m = Convert.ToInt32(Console.ReadLine());
+int m = int.Parse(Console.ReadLine()!);
 Console.Write("Введите значение n: ");
-int n = Convert.ToInt32(Console.ReadLine());
+int n = int.Parse(Console.ReadLine()!);
 
 int akkerman(int m, int n)
 {
